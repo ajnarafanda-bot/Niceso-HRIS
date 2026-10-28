@@ -1,0 +1,6 @@
+{
+  "name": "NICESO HRIS",
+  "description": "Sistem Informasi Manajemen Sumber Daya Manusia (HRIS) NICESO untuk absensi mobile, pengajuan cuti & lembur, persetujuan berjenjang, dan pemantauan kinerja karyawan.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
